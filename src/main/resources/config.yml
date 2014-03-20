@@ -1,4 +1,9 @@
+# I haven't a clue what this does below, once I figure it out, this will be changed to explain it's purpose.
 team: TeamName
+
+# Add the names of the maps below to add them to the map rotation list.
+# Keep in mind, yaml does not like tabs.  Use spaces.
 rotation:
   - Warlock
   - Race For Victory 2
+  - NameofMapHere
