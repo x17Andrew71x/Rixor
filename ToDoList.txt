@@ -1,0 +1,9 @@
+===============================================================
+To Do List:
+
+[ ] - Create Map XML Templates to download for all gametypes.
+[ ] - Add support for Smash
+[ ] - Add support for Free For All
+[ ] - Fix /help and other various cmds.
+
+===============================================================
