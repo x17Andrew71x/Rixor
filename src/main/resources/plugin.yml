@@ -15,11 +15,11 @@ commands:
     aliases: [cancel]
     description: Stop/End the game.
   start:
-    description: Start the starting timer.
+    description: Start the game starting timer.
   staff:
-    description: Lists off staff.
+    description: Lists off the staff.
   help:
-    description: Help on ParaPGM commands.
+    description: Help on ParaPGM/Rixor commands.
   request:
     description: Send a request to online staff.
   match:
