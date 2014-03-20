@@ -27,3 +27,12 @@ commands:
     description: Check the map status.
   test:
     description: so yeah tests woo.
+  report:
+    description: Files a report against a player for staff to investigate.
+    permission: rixor.staff
+    usage: /report <playername> <message>
+
+permissions:
+  rixor.staff:
+    default: false
+    description: Staff need this to get the report that a player files.

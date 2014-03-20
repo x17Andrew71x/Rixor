@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Var {
-	public static boolean stopConfirmation;
-/*	public static String teamDisplayName;
+/*	public static boolean stopConfirmation;
+	public static String teamDisplayName;
 	public static ChatColor teamTechnicalColor;
 	public static String enemyTeamDisplayName;
 	public static ChatColor enemyTeamTechnicalColor;

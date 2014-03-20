@@ -201,6 +201,7 @@ public class Rixor extends JavaPlugin {
 		cmdRegister.register(UpdateCommand.class);
 		cmdRegister.register(MapsCommand.class);
 		cmdRegister.register(RotationCommand.class);
+		cmdRegister.register(ReportCommand.class);
 
 	}
 
@@ -244,6 +245,8 @@ public class Rixor extends JavaPlugin {
 		registerCommand("request", new RequestCommand());
 
 		registerCommand("match", new MatchCommand());
+		
+		registerCommand("report", new ReportCommand());
 		enableTracker();
 	}
 
